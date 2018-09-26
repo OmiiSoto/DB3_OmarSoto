@@ -1,6 +1,4 @@
 <?php
-
-	<h1 align=center"center"> Lista de todas 
 	include ('conexion.php');
 	$query=mysqli_query($conecta,"SHOW DATABASES");
 
